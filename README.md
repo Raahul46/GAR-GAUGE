@@ -1,4 +1,5 @@
-# GAR-GAUGE (A smart-garbage-disposal-and-monitoring-system)
+# Gone Garbage
+(A smart-garbage-disposal-and-monitoring-system)
 
 A project that primarily focuses to eliminate the hazards of garbage overflow.The system is primarily based on IoT that can alert the responsible officials to collect the garbage from the locations where overflowing dumpsters need immediate concern.
 
